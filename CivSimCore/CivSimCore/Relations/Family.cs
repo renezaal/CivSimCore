@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace CivSimCore
+namespace CivSimCore.Relations
 {
-    public class Class1
+    class Family
     {
     }
 }
